@@ -1,0 +1,8 @@
+                                        Sterowanie
+
+                      strzalka w lewo to lot w prawo 
+                      strzalka w prawo to lot w lewo
+                      strzalka w dol to lot w gore 
+                      strzalka w gore to lot w dol
+                                      p- pauza
+                                      k- kontynuuj
